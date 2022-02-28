@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending_Club_Case_Study
+> To understand and analyze the Business loss and Financial loss in Lending club case study
 
 
 ## Table of Contents
