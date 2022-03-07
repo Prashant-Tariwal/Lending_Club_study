@@ -1,6 +1,6 @@
 # Project Name
 > Lending Club Case Group Study.
-- Github link : https://github.com/Prashant-Tariwal/Lending_Club_study/tree/main
+- Github link : https://github.com/Prashant-Tariwal/Lending_Club_study/tree/master
 
 ## Table of Contents
 *  Objective
@@ -46,4 +46,5 @@ Given Credits to Upgrad.
 - References: https://github.com/adyr16/Lending-Club-CaseStudy
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Prashant Tariwal (prashanttariwal@gmail.com)
+           Rajesh Balakrishnan (rajeshbalarx00@gmail.com)
