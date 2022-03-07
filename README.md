@@ -46,5 +46,4 @@ Given Credits to Upgrad.
 - References: https://github.com/adyr16/Lending-Club-CaseStudy
 
 ## Contact
-Created by Prashant Tariwal (prashanttariwal@gmail.com)
-           Rajesh Balakrishnan (rajeshbalarx00@gmail.com)
+Created by [@githubusername] - feel free to contact me!
